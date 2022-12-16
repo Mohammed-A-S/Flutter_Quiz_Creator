@@ -1,0 +1,4 @@
+#Thu Dec 08 02:03:18 GMT+03:00 2022
+base.0=D\:\\StudioProjects\\quiz_game\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
